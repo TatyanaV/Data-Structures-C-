@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.macosx.base.1217622386/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.macosx.base.1217622386/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.macosx.base.1217622386/PATH/value=/usr/bin\:/bin\:/usr/sbin\:/sbin\:/Applications/Xcode.app/Contents/Developer/usr/bin\:
+environment/project/cdt.managedbuild.toolchain.gnu.macosx.base.1217622386/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.macosx.base.1217622386/appendContributed=true

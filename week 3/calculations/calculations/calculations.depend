@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1413774735 source:c:\users\tanya\desktop\cs 261\week 3\calc.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dynamicArray.h"
+	<math.h>
+	<assert.h>
+
+1413770437 c:\users\tanya\desktop\cs 261\week 3\dynamicarray.h
+	<math.h>
+
+1413775154 source:c:\users\tanya\desktop\cs 261\week 3\dynamicarray.c
+	<assert.h>
+	<stdlib.h>
+	"dynamicArray.h"
+
